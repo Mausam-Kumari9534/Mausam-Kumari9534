@@ -111,7 +111,8 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mausam-Kumari9534/Mausam-Kumari9534/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/Mausam-Kumari9534/Mausam-Kumari9534/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
