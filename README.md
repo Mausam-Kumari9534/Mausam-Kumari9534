@@ -111,10 +111,8 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mausam-Kumari9534/Mausam-Kumari9534/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Mausam-Kumari9534/Mausam-Kumari9534/output/github-contribution-grid-snake.svg" />
 </p>
-
----
 
 ---
 
